@@ -4,7 +4,7 @@
   "description": "API que servirá como backend para a aplicação do Podcastr",
   "main": "index.js",
   "scripts": {
-    "start": "json-server --watch db.json --port process.env.PORT",
+    "start": "node index.js",
     "dev":"json-server --watch db.json",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
