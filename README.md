@@ -1,2 +1,2 @@
 # PodcastrAPI
-AAP que servirá como backend para a aplicação do Podcastr
+API que servirá como backend para a aplicação do Podcastr

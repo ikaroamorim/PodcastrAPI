@@ -1,0 +1,27 @@
+{
+  "name": "podcastrapi",
+  "version": "1.0.0",
+  "description": "API que servirá como backend para a aplicação do Podcastr",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikaroamorim/PodcastrAPI.git"
+  },
+  "keywords": [
+    "podcastr",
+    "api",
+    "rest"
+  ],
+  "author": "Ikaro Amorim e Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ikaroamorim/PodcastrAPI/issues"
+  },
+  "homepage": "https://github.com/ikaroamorim/PodcastrAPI#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
